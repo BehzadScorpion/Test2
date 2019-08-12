@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Test2
+namespace Comp123_SectionC_Test2
 {
     static class Program
     {

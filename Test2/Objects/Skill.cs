@@ -9,7 +9,7 @@ using System.Threading.Tasks;
  * Description: This is the Skill class we use with the CharacterPortfolio class
  
 */
-namespace Test2.Objects
+namespace Comp123_SectionC_Test2.Objects
 {
     public class Skill
     {

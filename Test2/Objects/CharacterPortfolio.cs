@@ -8,7 +8,7 @@ using System.Threading.Tasks;
  * Student ID
  * Description: This is the main class
 */
-namespace Test2.Objects
+namespace Comp123_SectionC_Test2.Objects
 {
     public class CharacterPortfolio
     {
