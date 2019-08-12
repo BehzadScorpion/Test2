@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 /*
  * Student Name:
  * Student ID
- * Description: This is the Skill class we use with the CharacterPortfolio class
+ * Description: This is the Skill class we use for the CharacterPortfolio class
  
 */
 namespace Comp123_SectionC_Test2.Objects

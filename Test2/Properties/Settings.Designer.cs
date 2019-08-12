@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Comp123_SectionC_Test2.Properties
+namespace Test2.Properties
 {
 
 

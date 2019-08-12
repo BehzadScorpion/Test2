@@ -3,11 +3,15 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Test2.Views;
 
 namespace Comp123_SectionC_Test2
 {
-    static class Program
+    public static class Program
     {
+        //Temporary
+        public static MasterForm masterform;
+        public static CharacterGenerationForm characterform;
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
@@ -16,7 +20,10 @@ namespace Comp123_SectionC_Test2
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+
+            masterform = new MasterForm();
+            characterform = new CharacterGenerationForm();
+            Application.Run(characterform);
         }
     }
 }
